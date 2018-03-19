@@ -4,7 +4,7 @@ public class PythagoreanTest {
         Pythagorean Hypo = new Pythagorean();
 		Double slope = Hypo.calculateHypotenuse(2,2);
 		Double slope2 = Math.sqrt(slope);
-		System.out.println("slope: "+slope2);
+		System.out.println("The slope is "+slope2);
 		
 
     }
